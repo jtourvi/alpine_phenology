@@ -1,0 +1,13 @@
+Species,Functional_Type,Slope,CI2.5,CI97.5,Bayes_R2,sig
+C. bigelowii,Arctic Herbaceous,-0.26,-1.09,0.6,0.11,-0.26
+C. borealis,Transitional,-1.36,-2.24,-0.47,0.21,1.36*
+C. canadensis,Transitional,-0.63,-1.21,-0.05,0.07,-0.63
+D. lapponica,Arctic Cushion,-0.42,-0.76,-0.06,0.07,-0.42*
+G. peckii,Arctic Herbaceous,-0.39,-1.12,0.32,0.03,-0.39
+K. procumbens,Arctic Cushion,-0.7,-1.42,-0.03,0.07,-0.70*
+M. canadense,Transitional,0.39,-0.99,1.73,0.18,0.39
+R. groenlandicum,Transitional,-0.69,-1.21,-0.19,0.08,-0.69*
+R. lapponicum,Arctic Shrub,-0.7,-1.45,-0.16,0.23,-0.70*
+S. tridentata,Arctic Herbaceous,0.47,-0.55,1.5,0.13,0.47
+V. uliginosum,Arctic Shrub,-0.6,-1.13,-0.03,0.06,-0.60*
+V. vitis-idaea,Arctic Shrub,-0.19,-0.33,-0.05,0.11,-0.19*
